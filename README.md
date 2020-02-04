@@ -1,0 +1,2 @@
+# projGit
+JUST LEARNING GIT
